@@ -1,0 +1,4 @@
+{"level":"http","message":"POST /api/auth 200 111.449 ms - 193","timestamp":"2024-12-13 23:33:52"}
+{"level":"http","message":"GET /api/users/user_name 200 5.466 ms - 457","timestamp":"2024-12-13 23:34:00"}
+{"level":"http","message":"POST /api/observations 200 136.403 ms - 2","timestamp":"2024-12-13 23:43:16"}
+{"level":"http","message":"POST /api/observations 200 46.963 ms - 2","timestamp":"2024-12-13 23:43:36"}
